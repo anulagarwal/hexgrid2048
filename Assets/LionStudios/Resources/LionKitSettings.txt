@@ -1,0 +1,17 @@
+{
+	"LionStudios.Suite.Analytics.LionAnalytics": {
+		"heartbeatInterval": 60,
+		"enableGameAnalyticsEvents": true
+	},
+	"LionStudios.Suite.Core.LionCore": {
+		"_UseMultiDexSupport": true,
+		"_UseProGuard": true,
+		"_OverrideGradlePluginVersion": false,
+		"_GradlePluginOverride": ""
+	},
+	"LionStudios.Suite.Debugging.LionDebug": {
+		"debuggerEnabled": true,
+		"showDebuggerAtStartup": true,
+		"debugLogLevel": 4
+	}
+}

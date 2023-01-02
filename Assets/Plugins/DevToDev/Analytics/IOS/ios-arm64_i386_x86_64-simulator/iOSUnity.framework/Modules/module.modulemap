@@ -1,0 +1,4 @@
+framework module iOSUnity {
+  header "iOSUnity-Swift.h"
+  requires objc
+}
